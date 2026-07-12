@@ -45,7 +45,7 @@ Production-grade systems engineering, specialized software tooling, and architec
 * **`rust/`** — Memory-safe zero-allocation utilities, custom FFI bindings, and performance-critical security wrappers.
 * **`architecture/`** — Formal specifications for distributed, fault-tolerant, and decentralized (p2p) secure communications platforms.
 
-### 🔬 3. Research & Theory
+### 3. Research & Theory
 The mathematical and theoretical backbone powering the applied implementations:
 * **`ComputerScience/`** — Advanced algorithms (finite automata, bitwise operations) and complex structural data representations (B-Trees, Merkle Trees).
 * **`Mathematics/`** — Theory of numbers, matrix representations, linear algebra lattices, and verification of modular reduction primitives (Barrett/Montgomery).
